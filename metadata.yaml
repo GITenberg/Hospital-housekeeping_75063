@@ -1,5 +1,8 @@
 _repo: Hospital-housekeeping_75063
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75063-h/images/cover.jpg
 creator:
   author:
     agent_name: Aikens, Charlotte A. (Charlotte Albina)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57736'
     url: http://www.gutenberg.org/2009/agents/57736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75063#Hospital-housekeeping
 gutenberg_issued: '2025-01-08'
 gutenberg_type: Text
 identifiers:
